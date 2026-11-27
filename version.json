@@ -1,0 +1,8 @@
+{
+  "version": "0.12.2",
+  "changes": [
+    "Ajustement de la zone sécurisée et du détail sur iOS",
+    "Nom de domaine et explications repliées dans le détail",
+    "Couleur propre à chaque tuile avec alternance à chaque appel"
+  ]
+}
